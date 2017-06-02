@@ -230,6 +230,8 @@ dependencies {
 
     compile 'com.google.firebase:firebase-core:' + project.gmsVersion
 
+    compile 'net.pubnative:mediation:1.2.12'
+
     compile supportCompile
 
     androidTestCompile 'com.android.support.test.espresso:espresso-core:' + project.espressoVersion
